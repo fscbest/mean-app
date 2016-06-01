@@ -1,1 +1,4 @@
-*.agdai
+node_modules
+dist
+*.swp
+*log
